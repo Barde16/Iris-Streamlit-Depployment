@@ -22,7 +22,7 @@ st.subheader('By Gayatri Barde')
 sep_len = st.number_input("sepal_length", min_value = 0.00 , step = 0.00)
 sep_wid = st.number_input("sepal_width", min_value = 0.00 , step = 0.00)
 petal_len = st.number_input("petal_length", min_value = 0.00 , step = 0.00)
-petal_wid = st.number_input("petal_length", min_value = 0.00 , step = 0.00)
+petal_wid = st.number_input("petal_width", min_value = 0.00 , step = 0.00)
 
 # add button
 
