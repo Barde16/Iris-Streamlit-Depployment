@@ -4,7 +4,7 @@ import pandas  as pd
 from utils import predict_species
 import joblib
  
-model  =  joblib.load("/notebook/Iris_model.joblib")
+model  =  joblib.load("/workspaces/Iris-Streamlit-Depployment/notebook/Iris_model.joblib")
  
 #  design page  
  
